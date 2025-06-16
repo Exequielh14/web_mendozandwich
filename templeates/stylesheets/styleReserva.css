@@ -1,0 +1,12 @@
+body {
+    background-color: #fffaf0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
